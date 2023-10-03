@@ -1,0 +1,7 @@
+# Ignore exe files
+*.exe
+
+#Ignore Directories
+
+.vscode/
+.git/
