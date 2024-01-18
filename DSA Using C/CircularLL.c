@@ -13,7 +13,7 @@ struct Node *CreateNode(int data)
     (*ptr).data = data;
     return ptr;
 }
-//Test
+
 
 void Display(struct Node *head)
 {
